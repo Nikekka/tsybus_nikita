@@ -1,8 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 
 int main(){
-    cout<<"Laba za den";
-    return 0;
+    cout<<"Laba za noch";
+    //kekw
 }
